@@ -1,9 +1,9 @@
 # BatmanCV-Grupo1
 
 
-Alicia Torres /n
-Andrea Carreño /n
-Claudia Heredia /n
-Erik Rogers /n
-Priscila Elizabeth /n
-Xochitl Avila 
+Alicia Torres.  
+Andrea Carreño.   
+Claudia Heredia.  
+Erik Rogers.  
+Priscila Elizabeth.  
+Xochitl Avila.  
