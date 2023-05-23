@@ -1,0 +1,82 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+  background-color: #E6E6E6;
+  text-align: center;
+}
+
+.batmanPhoto {
+  padding: 20px;
+}
+
+.titulos {
+  background-color: #c4c4c4;
+  color: #005677;
+}
+
+h1 {
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 12px;
+  padding: 5px;
+  margin: 0;
+}
+
+h3 {
+  padding: 10px;
+  margin: 0;
+  letter-spacing: 8px;
+}
+
+.datos {
+  font-style: italic;
+  font-weight: bold;
+}
+
+ul {
+  padding-left: 32px;
+}
+
+li {
+  line-height: 30px;
+}
+
+span {
+  font-weight: bold;
+}
+
+div {
+  margin: 30px;
+  padding-left: 20px;
+}
+
+.vacio {
+  height: 150px;
+}
+
+footer {
+  background-color: #005677;
+  text-align: center;
+  padding: 8px;
+} 
+
+p {
+  line-height: 0;
+}
+
+.ocupacion {
+  padding-left: 80px;
+  padding-bottom: 15px;
+}
+
+footer > p {
+  display: inline;
+  font-size: 20px;
+  color: #ffffff; 
+}
+
+footer > img {
+  padding-left: 20px;
+}
